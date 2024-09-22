@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Samhitha's Homepage"
 title_separator          : "-"
-name                     : &name "Samhitha Urd"
+name                     : &name "Samhitha Urs"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "download.png"
   name             : "Samhitha Urs"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
